@@ -16,3 +16,7 @@ footer {
 	border: solid 1px;
 	border-color: black;
 }
+
+p {
+	margin: 0px;
+}
